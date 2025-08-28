@@ -2,6 +2,8 @@
   "project": "DA Block Collection",
   "editUrlLabel": "Document Authoring",
   "editUrlPattern": "https://da.live/edit#/{{org}}/{{site}}{{pathname}}",
+  "previewHost": "main--aem-sites-da--kinuk97.aem.page",
+  "liveHost": "main--aem-sites-da--kinuk97.aem.live"
   "plugins": [
     {
       "id": "da-plugin-demo",
